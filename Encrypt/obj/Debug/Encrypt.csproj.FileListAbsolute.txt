@@ -1,0 +1,6 @@
+D:\pera\GitHub\Encrypt\Encrypt\Encrypt\bin\Debug\Encrypt.exe.config
+D:\pera\GitHub\Encrypt\Encrypt\Encrypt\bin\Debug\Encrypt.exe
+D:\pera\GitHub\Encrypt\Encrypt\Encrypt\bin\Debug\Encrypt.pdb
+D:\pera\GitHub\Encrypt\Encrypt\Encrypt\obj\Debug\Encrypt.csprojResolveAssemblyReference.cache
+D:\pera\GitHub\Encrypt\Encrypt\Encrypt\obj\Debug\Encrypt.exe
+D:\pera\GitHub\Encrypt\Encrypt\Encrypt\obj\Debug\Encrypt.pdb
